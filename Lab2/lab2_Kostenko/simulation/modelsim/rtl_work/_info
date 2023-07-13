@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\fourth semestr\vhdl\lab2_Kostenko\lab2_Kostenko\simulation\modelsim
+Elab2_1_kostenko
+Z1 w1683747098
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dD:\fourth semestr\vhdl\lab2_Kostenko\lab2_Kostenko\simulation\modelsim
+Z5 8D:/fourth semestr/vhdl/lab2_Kostenko/lab2_Kostenko/lab2_1_Kostenko.vhd
+Z6 FD:/fourth semestr/vhdl/lab2_Kostenko/lab2_Kostenko/lab2_1_Kostenko.vhd
+l0
+L4
+VBAOlQzQX8IlHD]:^?5=_P0
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1683747729.952000
+Z9 !s90 -reportprogress|300|-93|-work|work|D:/fourth semestr/vhdl/lab2_Kostenko/lab2_Kostenko/lab2_1_Kostenko.vhd|
+Z10 !s107 D:/fourth semestr/vhdl/lab2_Kostenko/lab2_Kostenko/lab2_1_Kostenko.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 ]l>GM@;h]iLcmF=WSiX@N2
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 15 lab2_1_kostenko 0 22 BAOlQzQX8IlHD]:^?5=_P0
+l13
+L11
+VQmJKZHQ]nBWSnKlb>JAjC2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 ]aDl4LA5j8EI9Qj5YeYk<1
+!i10b 1
+Elab2_1_kostenko_tb
+Z13 w1683747346
+R2
+R3
+R4
+Z14 8D:/fourth semestr/vhdl/lab2_Kostenko/lab2_Kostenko/lab2_1_Kostenko_tb.vhd
+Z15 FD:/fourth semestr/vhdl/lab2_Kostenko/lab2_Kostenko/lab2_1_Kostenko_tb.vhd
+l0
+L4
+V<<Em_ob^C6g;aQ0_O5QZH1
+!s100 QmiEW<SV1O2hY>QZkS`me0
+R7
+31
+!i10b 1
+Z16 !s108 1683747730.212000
+Z17 !s90 -reportprogress|300|-93|-work|work|D:/fourth semestr/vhdl/lab2_Kostenko/lab2_Kostenko/lab2_1_Kostenko_tb.vhd|
+Z18 !s107 D:/fourth semestr/vhdl/lab2_Kostenko/lab2_Kostenko/lab2_1_Kostenko_tb.vhd|
+R11
+R12
+Artl
+R2
+R3
+DEx4 work 18 lab2_1_kostenko_tb 0 22 <<Em_ob^C6g;aQ0_O5QZH1
+l18
+L7
+V5m0>oGQYMC75F45=`nb_`1
+!s100 ]b[::J;?Eh1;ncCkz3@=N3
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12

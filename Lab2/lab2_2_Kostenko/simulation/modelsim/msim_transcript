@@ -1,0 +1,51 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do lab2_2_Kostenko_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {D:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko_pack.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package lab2_2_Kostenko_pack
+# vcom -93 -work work {D:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package lab2_2_Kostenko_pack
+# -- Compiling entity lab2_2_Kostenko
+# -- Compiling architecture rtl of lab2_2_Kostenko
+# 
+# vcom -93 -work work {D:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko_tb.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package lab2_2_Kostenko_pack
+# -- Compiling entity lab2_2_Kostenko_tb
+# -- Compiling architecture rtl of lab2_2_Kostenko_tb
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneiv_hssi -L cycloneiv_pcie_hip -L cycloneiv -L rtl_work -L work -voptargs="+acc"  lab2_2_Kostenko_tb
+# vsim -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneiv_hssi -L cycloneiv_pcie_hip -L cycloneiv -L rtl_work -L work -voptargs=\"+acc\" -t 1ps lab2_2_Kostenko_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lab2_2_kostenko_pack
+# Loading work.lab2_2_kostenko_tb(rtl)
+# Loading work.lab2_2_kostenko(rtl)
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run 1600 ps

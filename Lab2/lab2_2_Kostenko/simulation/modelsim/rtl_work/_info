@@ -1,0 +1,98 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\fourth semestr\vhdl\lab2_Kostenko\lab2_2_Kostenko\simulation\modelsim
+Elab2_2_kostenko
+Z1 w1683785292
+Z2 DPx4 work 20 lab2_2_kostenko_pack 0 22 8>GM]d>hZ8V`TobE_CEA00
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dD:\fourth semestr\vhdl\lab2_Kostenko\lab2_2_Kostenko\simulation\modelsim
+Z6 8D:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko.vhd
+Z7 FD:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko.vhd
+l0
+L5
+VJ;bgj6If;O1>EfFglao<Q1
+Z8 OV;C;10.1d;51
+31
+Z9 !s108 1683785663.128000
+Z10 !s90 -reportprogress|300|-93|-work|work|D:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko.vhd|
+Z11 !s107 D:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko.vhd|
+Z12 o-93 -work work -O0
+Z13 tExplicit 1
+!s100 TH?6Dlk[Oo``Y;:T_]nke0
+!i10b 1
+Artl
+R2
+R3
+R4
+DEx4 work 15 lab2_2_kostenko 0 22 J;bgj6If;O1>EfFglao<Q1
+l14
+L12
+VV9g5U3]YAGk6dGGA^hl?m2
+R8
+31
+R9
+R10
+R11
+R12
+R13
+!s100 alEP9lIijoEVLT_WgbC@T2
+!i10b 1
+Plab2_2_kostenko_pack
+R3
+R4
+w1683785278
+R5
+8D:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko_pack.vhd
+FD:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko_pack.vhd
+l0
+L4
+V8>GM]d>hZ8V`TobE_CEA00
+R8
+31
+R12
+R13
+!s100 B]j9Ia1jjU3l[:15B0EBz1
+!i10b 1
+!s108 1683785663.032000
+!s90 -reportprogress|300|-93|-work|work|D:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko_pack.vhd|
+!s107 D:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko_pack.vhd|
+Elab2_2_kostenko_tb
+Z14 w1683785575
+R2
+R3
+R4
+R5
+Z15 8D:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko_tb.vhd
+Z16 FD:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko_tb.vhd
+l0
+L5
+Vk9dDZ4gdRH_ejN9Kdj9ba2
+!s100 6LNgJ[G7CY9TANZYW]LLl0
+R8
+31
+!i10b 1
+Z17 !s108 1683785663.212000
+Z18 !s90 -reportprogress|300|-93|-work|work|D:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko_tb.vhd|
+Z19 !s107 D:/fourth semestr/vhdl/lab2_Kostenko/lab2_2_Kostenko/lab2_2_Kostenko_tb.vhd|
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 18 lab2_2_kostenko_tb 0 22 k9dDZ4gdRH_ejN9Kdj9ba2
+l18
+L8
+VnKzOkDQ=0czh1jdWTloU31
+!s100 bD=K=:Idbno^g>m0UAgSW0
+R8
+31
+!i10b 1
+R17
+R18
+R19
+R12
+R13
